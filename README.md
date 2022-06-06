@@ -10,6 +10,15 @@ My recent attention:
 | <a href="https://github.com/skypesky"><img align="center" src="https://github-readme-stats.vercel.app/api?username=skypesky&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Skypesky's github stats" /></a> | <a href="https://github.com/skypesky"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skypesky&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=skypesky&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=skypesky&theme=github-light&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+<!-- paypal && visit times -->
 
 ![](https://komarev.com/ghpvc/?username=skypesky) <a href="https://www.paypal.com/paypalme/skypesky" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
+
+
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=skypesky&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+-->
