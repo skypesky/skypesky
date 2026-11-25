@@ -1,6 +1,9 @@
-# Hello World!
+# 求职
 
-My recent attention:
+- 寻求一份 node.js 远程办公，偏向后端的开发岗位
+
+# 最近关注
+
 | item | url |
 |-|-|
 | to-where-cli | <https://github.com/skypesky/to-where-cli> |
@@ -9,7 +12,6 @@ My recent attention:
 | leetcode home page | <https://leetcode-cn.com/u/skypesky/> |
 
 
-<!-- paypal && visit times ![](https://komarev.com/ghpvc/?username=skypesky) <a href="https://www.paypal.com/paypalme/skypesky" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a> -->
 
 
 
