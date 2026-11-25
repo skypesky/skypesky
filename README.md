@@ -1,6 +1,6 @@
 # 求职
 
-- 寻求一份 node.js 远程办公，全栈偏后端的开发岗位。联系方式: guhuo13@gmail.com
+- 寻找一份 node.js 远程办公，全栈偏后端的开发岗位。联系方式: guhuo13@gmail.com
 
 # 最近关注
 
